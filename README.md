@@ -16,7 +16,7 @@ This project uses Python for web scraping and data analysis on e-commerce book d
 - Matplotlib
 
 ## Files Included
-- book_scraper.ipynb
+- book_scraper.py
 - books_data.csv
 
 ## Output
